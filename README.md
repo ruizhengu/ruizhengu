@@ -1,7 +1,7 @@
 ### Hi👋, I'm Ruizhen!
 
-* I am a PhD student at the Department of Computer Science, University of Sheffield.
-* I am interested in Android app testing!
+* ㊫ I'm a PhD student at the School of Computer Science, University of Sheffield.
+* 👓 I'm working on automated testing for XR app!
 
 <!--
 **ruizhengu/ruizhengu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
